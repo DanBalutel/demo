@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap");
 /* line 1, ../../Arafath/CL/December/234. Finance/HTML/scss/_extend.scss */
 .flex-center-start {
   display: -webkit-box;
@@ -197,17 +197,17 @@ h3 {
 
 /* line 131, ../../Arafath/CL/December/234. Finance/HTML/scss/theme-default.scss */
 .bg-img-1 {
-  background-image: url(https://colorlib.com/preview/theme/finloans/img/slider/slider-img-1.jpg);
+  background-image: url(../img/slider/slider-img-1.html);
 }
 
 /* line 134, ../../Arafath/CL/December/234. Finance/HTML/scss/theme-default.scss */
 .bg-img-2 {
-  background-image: url(https://colorlib.com/preview/theme/finloans/img/background-img/bg-img-2.jpg);
+  background-image: url(../img/background-img/bg-img-2.html);
 }
 
 /* line 137, ../../Arafath/CL/December/234. Finance/HTML/scss/theme-default.scss */
 .cta-bg-1 {
-  background-image: url(https://colorlib.com/preview/theme/finloans/img/background-img/bg-img-3.jpg);
+  background-image: url(../img/background-img/bg-img-3.html);
 }
 
 /* line 142, ../../Arafath/CL/December/234. Finance/HTML/scss/theme-default.scss */
@@ -1365,7 +1365,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/December/234. Finance/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(https://colorlib.com/preview/theme/finloans/img/banner/banner_2.png);
+  background-image: url(../img/banner/banner_2.html);
 }
 
 /* line 7, ../../Arafath/CL/December/234. Finance/HTML/scss/_slider.scss */
@@ -1862,7 +1862,7 @@ h3 {
 
 /* line 35, ../../Arafath/CL/December/234. Finance/HTML/scss/_counter.scss */
 .home_details {
-  background-image: url(https://colorlib.com/preview/theme/finloans/img/banner/home_details.png);
+  background-image: url(../img/banner/home_details.html);
   background-size: cover;
   background-position: center center;
   padding: 140px 0;

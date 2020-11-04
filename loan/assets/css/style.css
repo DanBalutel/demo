@@ -28,7 +28,7 @@
 /*-------------   Color Variable  --------------*/
 /*-------------Color include--------------*/
 /*-- Background color---*/
-@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&amp;display=swap");
 /* line 56, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
 .white-bg {
   background: #ffffff;
@@ -227,17 +227,17 @@ p {
 
 /* line 34, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .bg-img-1 {
-  background-image: url(https://colorlib.com/preview/theme/loan/assets/img/slider/slider-img-1.jpg);
+  background-image: url(../img/slider/slider-img-1.html);
 }
 
 /* line 37, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .bg-img-2 {
-  background-image: url(https://colorlib.com/preview/theme/loan/assets/img/background-img/bg-img-2.jpg);
+  background-image: url(../img/background-img/bg-img-2.html);
 }
 
 /* line 40, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .cta-bg-1 {
-  background-image: url(https://colorlib.com/preview/theme/loan/assets/img/background-img/bg-img-3.jpg);
+  background-image: url(../img/background-img/bg-img-3.html);
 }
 
 /* line 45, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
@@ -6815,17 +6815,17 @@ hr {
 
 /* line 1, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(https://colorlib.com/preview/theme/loan/assets/img/banner/bradcam.png);
+  background-image: url(../img/banner/bradcam.html);
 }
 
 /* line 4, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_bradcam.scss */
 .breadcam_bg_1 {
-  background-image: url(https://colorlib.com/preview/theme/loan/assets/img/banner/bradcam2.png);
+  background-image: url(../img/banner/bradcam2.html);
 }
 
 /* line 7, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_bradcam.scss */
 .breadcam_bg_2 {
-  background-image: url(https://colorlib.com/preview/theme/loan/assets/img/banner/bradcam3.png);
+  background-image: url(../img/banner/bradcam3.html);
 }
 
 /* line 10, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_bradcam.scss */
