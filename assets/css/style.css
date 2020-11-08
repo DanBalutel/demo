@@ -26,6 +26,13 @@ Text Domain: darkjoe
 * -----------------------------------------------------------------------------
 */
 
+a.button {
+    border-radius: 0.5rem;
+}
+
+.col-md-4.col-sm-6.col-xs-12.item-space > figure {
+    border-radius: 1rem;
+}
 
 /* ///////////////////////////////////////////////////////////////////// 
 //  01 - Universal
@@ -286,7 +293,7 @@ header{
 	top: 0;
 	left: 0;
 	padding: 20px;
-	background: #111;
+	background: #2c5b6d;
 	color: #e66f69;
 }
 
