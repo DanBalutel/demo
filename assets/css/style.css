@@ -96,6 +96,18 @@ a.big.button {
 }
 
 @media all and (max-width: 600px) {
+
+    .top-contact {
+        display: flex;
+        flex-direction: column;
+    }
+    .top-contact>.email, .top-contact>.phone {
+        width: 100%;
+    }
+    .email {
+        flex-direction: row !important;
+    }
+
     .contact {
         flex-wrap: wrap;
     }
